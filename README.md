@@ -14,4 +14,4 @@ or equivalently
 The ipython notebook and python file need to be in the same directory to run.
 The source code is in the python file, the ipython notebook is only an interface for the GUI
 
-The ipython notebook requires you to input your Materials Object API Key to function
+The ipython notebook requires you to input your Materials Project API Key to function
