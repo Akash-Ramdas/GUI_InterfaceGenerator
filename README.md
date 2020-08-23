@@ -2,9 +2,11 @@
  Interface Generator GUI ipython notebook
 
 To install the varies modules used in the code you can run
-
-sh quick_install.sh
-
+'''bash
+	{
+		sh quick_install.sh
+	}
+'''
 or equivalently
 
 pip install -r requirements.txt
