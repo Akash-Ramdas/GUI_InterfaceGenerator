@@ -10,7 +10,7 @@ import pymatgen
 from pymatgen import MPRester
 from pymatgen.core.surface import SlabGenerator, generate_all_slabs, Structure, Lattice
 from pymatgen.symmetry.analyzer import SpacegroupAnalyzer
-#a = MPRester("OClHROzM9CGykIgeA")
+
 
 #ase libraries
 from ase import Atoms
